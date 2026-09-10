@@ -1,0 +1,176 @@
+{
+  "awuke": {
+    "author": "Maya",
+    "audio": "/demo-recommendations/awuke.m4a",
+    "cues": [
+      {
+        "start": 0,
+        "end": 2.766,
+        "text": "If you need a little lift today, start here."
+      },
+      {
+        "start": 2.766,
+        "end": 6.3,
+        "text": "I picked Awuke for that moment when the day finally feels lighter."
+      },
+      {
+        "start": 6.3,
+        "end": 9.363,
+        "text": "Give it a listen, then tell me what it brings to mind."
+      }
+    ],
+    "text": "If you need a little lift today, start here. I picked Awuke for that moment when the day finally feels lighter. Give it a listen, then tell me what it brings to mind.",
+    "emotions": [
+      "heart",
+      "headphones"
+    ],
+    "delivery": "voice"
+  },
+  "funds": {
+    "author": "Eli",
+    "delivery": "voice",
+    "audio": "/demo-recommendations/funds-daniel-v2.m4a",
+    "text": "Need a song to get the evening started? On Funds, Davido, Chike and ODUMODUBLVCK bring three different voices to the same celebration. Listen for how the mood changes between them, then tell me whose part you replayed.",
+    "cues": [
+      {
+        "start": 0,
+        "end": 2.104,
+        "text": "Need a song to get the evening started?"
+      },
+      {
+        "start": 2.104,
+        "end": 8.261,
+        "text": "On Funds, Davido, Chike and ODUMODUBLVCK bring three different voices to the same celebration."
+      },
+      {
+        "start": 8.261,
+        "end": 12.884,
+        "text": "Listen for how the mood changes between them, then tell me whose part you replayed."
+      }
+    ],
+    "emotions": [
+      "heart",
+      "headphones"
+    ],
+    "voice": "Daniel"
+  },
+  "dont-let-me-drown": {
+    "author": "Noor",
+    "audio": "/demo-recommendations/dont-let-me-drown.m4a",
+    "cues": [
+      {
+        "start": 0,
+        "end": 2.139,
+        "text": "Some songs make me want to slow down."
+      },
+      {
+        "start": 2.139,
+        "end": 4.924,
+        "text": "This is one I would share with a friend after a long day."
+      },
+      {
+        "start": 4.924,
+        "end": 7.733,
+        "text": "Take a moment with it. The song is coming up now."
+      }
+    ],
+    "text": "Some songs make me want to slow down. This is one I would share with a friend after a long day. Take a moment with it. The song is coming up now.",
+    "emotions": [
+      "heart",
+      "headphones"
+    ],
+    "delivery": "voice"
+  },
+  "behind-the-light": {
+    "author": "Alex",
+    "delivery": "text",
+    "text": "A small pause in a busy day. I would put this on for the walk home and let the rest of the world carry on without me for a minute. What is your favourite song for switching off?",
+    "emotions": [
+      "chill",
+      "dream"
+    ],
+    "cues": []
+  },
+  "door": {
+    "author": "Maya",
+    "delivery": "voice",
+    "audio": "/demo-recommendations/door.m4a",
+    "text": "Ever wanted to tell someone you like them, but kept finding excuses? Door turns that feeling into a playful invitation, with Joeboy and Kwesi Arthur trading their own kind of charm. Send this one to the person you wish would make the first move.",
+    "cues": [
+      {
+        "start": 0,
+        "end": 4.024,
+        "text": "Ever wanted to tell someone you like them, but kept finding excuses?"
+      },
+      {
+        "start": 4.024,
+        "end": 10.352,
+        "text": "Door turns that feeling into a playful invitation, with Joeboy and Kwesi Arthur trading their own kind of charm."
+      },
+      {
+        "start": 10.352,
+        "end": 13.34,
+        "text": "Send this one to the person you wish would make the first move."
+      }
+    ],
+    "emotions": [
+      "heart",
+      "headphones"
+    ]
+  },
+  "all-i-need-is-you": {
+    "author": "Noor",
+    "delivery": "voice",
+    "audio": "/demo-recommendations/all-i-need-is-you.m4a",
+    "text": "For the days when your heart needs somewhere quiet to land. All I Need Is You is a prayer about finding comfort in faith when everything feels heavy. Take a breath, let the words settle, and share it with someone who needs a little peace.",
+    "cues": [
+      {
+        "start": 0,
+        "end": 2.911,
+        "text": "For the days when your heart needs somewhere quiet to land."
+      },
+      {
+        "start": 2.911,
+        "end": 7.29,
+        "text": "All I Need Is You is a prayer about finding comfort in faith when everything feels heavy."
+      },
+      {
+        "start": 7.29,
+        "end": 12.109,
+        "text": "Take a breath, let the words settle, and share it with someone who needs a little peace."
+      }
+    ],
+    "emotions": [
+      "heart",
+      "headphones"
+    ]
+  },
+  "beautiful-onyinye": {
+    "author": "Alex",
+    "delivery": "voice",
+    "audio": "/demo-recommendations/beautiful-onyinye-daniel-v2.m4a",
+    "text": "This one is for the person who makes an ordinary day feel special. Beautiful Onyinye turns gratitude for love into a promise you can sing along to. Think of someone who brings out your smile. This might be the song to send them.",
+    "cues": [
+      {
+        "start": 0,
+        "end": 3.413,
+        "text": "This one is for the person who makes an ordinary day feel special."
+      },
+      {
+        "start": 3.413,
+        "end": 8.025,
+        "text": "Beautiful Onyinye turns gratitude for love into a promise you can sing along to."
+      },
+      {
+        "start": 8.025,
+        "end": 12.496,
+        "text": "Think of someone who brings out your smile. This might be the song to send them."
+      }
+    ],
+    "emotions": [
+      "heart",
+      "headphones"
+    ],
+    "voice": "Daniel"
+  }
+}
