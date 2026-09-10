@@ -29,30 +29,35 @@
   "funds": {
     "author": "Eli",
     "delivery": "voice",
-    "audio": "/demo-recommendations/funds-daniel-v2.m4a",
-    "text": "Need a song to get the evening started? On Funds, Davido, Chike and ODUMODUBLVCK bring three different voices to the same celebration. Listen for how the mood changes between them, then tell me whose part you replayed.",
+    "audio": "/demo-recommendations/funds-neural-v3.mp3",
+    "text": "Okay, I meant to play this once. I've had it on three times. That switch between the voices just gets me. This is definitely coming on tonight.",
     "cues": [
       {
-        "start": 0,
-        "end": 2.104,
-        "text": "Need a song to get the evening started?"
+        "start": 0.1,
+        "end": 3.296,
+        "text": "Okay, I meant to play this once."
       },
       {
-        "start": 2.104,
-        "end": 8.261,
-        "text": "On Funds, Davido, Chike and ODUMODUBLVCK bring three different voices to the same celebration."
+        "start": 3.246,
+        "end": 5.785,
+        "text": "I've had it on three times."
       },
       {
-        "start": 8.261,
-        "end": 12.884,
-        "text": "Listen for how the mood changes between them, then tell me whose part you replayed."
+        "start": 5.785,
+        "end": 9.084,
+        "text": "That switch between the voices just gets me."
+      },
+      {
+        "start": 9.084,
+        "end": 12.022,
+        "text": "This is definitely coming on tonight."
       }
     ],
     "emotions": [
       "heart",
       "headphones"
     ],
-    "voice": "Daniel"
+    "voice": "en-GB-RyanNeural"
   },
   "dont-let-me-drown": {
     "author": "Noor",
@@ -94,83 +99,100 @@
   "door": {
     "author": "Maya",
     "delivery": "voice",
-    "audio": "/demo-recommendations/door.m4a",
-    "text": "Ever wanted to tell someone you like them, but kept finding excuses? Door turns that feeling into a playful invitation, with Joeboy and Kwesi Arthur trading their own kind of charm. Send this one to the person you wish would make the first move.",
+    "audio": "/demo-recommendations/door-neural-v3.mp3",
+    "text": "I sent this to someone and then immediately put my phone face down. Yeah... that sort of song. It's cheeky, but it's actually really sweet.",
     "cues": [
       {
-        "start": 0,
-        "end": 4.024,
-        "text": "Ever wanted to tell someone you like them, but kept finding excuses?"
+        "start": 0.1,
+        "end": 4.282,
+        "text": "I sent this to someone and then immediately put my phone face down."
       },
       {
-        "start": 4.024,
-        "end": 10.352,
-        "text": "Door turns that feeling into a playful invitation, with Joeboy and Kwesi Arthur trading their own kind of charm."
+        "start": 4.232,
+        "end": 6.393,
+        "text": "Yeah... that sort of song."
       },
       {
-        "start": 10.352,
-        "end": 13.34,
-        "text": "Send this one to the person you wish would make the first move."
+        "start": 6.393,
+        "end": 9.583,
+        "text": "It's cheeky, but it's actually really sweet."
       }
     ],
     "emotions": [
       "heart",
       "headphones"
-    ]
+    ],
+    "voice": "en-GB-SoniaNeural"
   },
   "all-i-need-is-you": {
     "author": "Noor",
     "delivery": "voice",
-    "audio": "/demo-recommendations/all-i-need-is-you.m4a",
-    "text": "For the days when your heart needs somewhere quiet to land. All I Need Is You is a prayer about finding comfort in faith when everything feels heavy. Take a breath, let the words settle, and share it with someone who needs a little peace.",
+    "audio": "/demo-recommendations/all-i-need-is-you-neural-v3.mp3",
+    "text": "I had a bit of a rough day. Put this on, and just sat for a minute. I think that's what I needed, really. Something quiet.",
     "cues": [
       {
-        "start": 0,
-        "end": 2.911,
-        "text": "For the days when your heart needs somewhere quiet to land."
+        "start": 0.1,
+        "end": 2.781,
+        "text": "I had a bit of a rough day."
       },
       {
-        "start": 2.911,
-        "end": 7.29,
-        "text": "All I Need Is You is a prayer about finding comfort in faith when everything feels heavy."
+        "start": 2.731,
+        "end": 6.413,
+        "text": "Put this on, and just sat for a minute."
       },
       {
-        "start": 7.29,
-        "end": 12.109,
-        "text": "Take a breath, let the words settle, and share it with someone who needs a little peace."
+        "start": 6.413,
+        "end": 9.715,
+        "text": "I think that's what I needed, really."
+      },
+      {
+        "start": 9.715,
+        "end": 11.929,
+        "text": "Something quiet."
       }
     ],
     "emotions": [
       "heart",
       "headphones"
-    ]
+    ],
+    "voice": "en-GB-LibbyNeural"
   },
   "beautiful-onyinye": {
     "author": "Alex",
     "delivery": "voice",
-    "audio": "/demo-recommendations/beautiful-onyinye-daniel-v2.m4a",
-    "text": "This one is for the person who makes an ordinary day feel special. Beautiful Onyinye turns gratitude for love into a promise you can sing along to. Think of someone who brings out your smile. This might be the song to send them.",
+    "audio": "/demo-recommendations/beautiful-onyinye-neural-v3.mp3",
+    "text": "Ah, this one. I haven't heard it in ages. I still know exactly where the chorus comes in. Yeah... I'm letting this one play all the way through.",
     "cues": [
       {
-        "start": 0,
-        "end": 3.413,
-        "text": "This one is for the person who makes an ordinary day feel special."
+        "start": 0.1,
+        "end": 2.112,
+        "text": "Ah, this one."
       },
       {
-        "start": 3.413,
-        "end": 8.025,
-        "text": "Beautiful Onyinye turns gratitude for love into a promise you can sing along to."
+        "start": 2.062,
+        "end": 4.485,
+        "text": "I haven't heard it in ages."
       },
       {
-        "start": 8.025,
-        "end": 12.496,
-        "text": "Think of someone who brings out your smile. This might be the song to send them."
+        "start": 4.485,
+        "end": 7.809,
+        "text": "I still know exactly where the chorus comes in."
+      },
+      {
+        "start": 7.809,
+        "end": 9.072,
+        "text": "Yeah..."
+      },
+      {
+        "start": 9.072,
+        "end": 12.268,
+        "text": "I'm letting this one play all the way through."
       }
     ],
     "emotions": [
       "heart",
       "headphones"
     ],
-    "voice": "Daniel"
+    "voice": "en-GB-ThomasNeural"
   }
 }
