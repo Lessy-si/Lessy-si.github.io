@@ -21,8 +21,8 @@
     ],
     "text": "If you need a little lift today, start here. I picked Awuke for that moment when the day finally feels lighter. Give it a listen, then tell me what it brings to mind.",
     "emotions": [
-      "heart",
-      "headphones"
+      "star",
+      "party"
     ],
     "delivery": "voice"
   },
@@ -54,8 +54,7 @@
       }
     ],
     "emotions": [
-      "heart",
-      "headphones"
+      "hug"
     ],
     "voice": "en-GB-RyanNeural"
   },
@@ -81,8 +80,8 @@
     ],
     "text": "Some songs make me want to slow down. This is one I would share with a friend after a long day. Take a moment with it. The song is coming up now.",
     "emotions": [
-      "heart",
-      "headphones"
+      "star",
+      "hug"
     ],
     "delivery": "voice"
   },
@@ -91,8 +90,7 @@
     "delivery": "text",
     "text": "A small pause in a busy day. I would put this on for the walk home and let the rest of the world carry on without me for a minute. What is your favourite song for switching off?",
     "emotions": [
-      "chill",
-      "dream"
+      "party"
     ],
     "cues": []
   },
@@ -119,8 +117,8 @@
       }
     ],
     "emotions": [
-      "heart",
-      "headphones"
+      "star",
+      "party"
     ],
     "voice": "en-GB-SoniaNeural"
   },
@@ -152,8 +150,7 @@
       }
     ],
     "emotions": [
-      "heart",
-      "headphones"
+      "hug"
     ],
     "voice": "en-GB-LibbyNeural"
   },
@@ -190,8 +187,8 @@
       }
     ],
     "emotions": [
-      "heart",
-      "headphones"
+      "star",
+      "hug"
     ],
     "voice": "en-GB-ThomasNeural"
   }
