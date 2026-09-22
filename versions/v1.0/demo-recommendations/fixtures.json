@@ -1,0 +1,195 @@
+{
+  "awuke": {
+    "author": "Maya",
+    "audio": "/versions/v1.0/demo-recommendations/awuke.m4a",
+    "cues": [
+      {
+        "start": 0,
+        "end": 2.766,
+        "text": "If you need a little lift today, start here."
+      },
+      {
+        "start": 2.766,
+        "end": 6.3,
+        "text": "I picked Awuke for that moment when the day finally feels lighter."
+      },
+      {
+        "start": 6.3,
+        "end": 9.363,
+        "text": "Give it a listen, then tell me what it brings to mind."
+      }
+    ],
+    "text": "If you need a little lift today, start here. I picked Awuke for that moment when the day finally feels lighter. Give it a listen, then tell me what it brings to mind.",
+    "emotions": [
+      "star",
+      "party"
+    ],
+    "delivery": "voice"
+  },
+  "funds": {
+    "author": "Eli",
+    "delivery": "voice",
+    "audio": "/versions/v1.0/demo-recommendations/funds-neural-v3.mp3",
+    "text": "Okay, I meant to play this once. I've had it on three times. That switch between the voices just gets me. This is definitely coming on tonight.",
+    "cues": [
+      {
+        "start": 0.1,
+        "end": 3.296,
+        "text": "Okay, I meant to play this once."
+      },
+      {
+        "start": 3.246,
+        "end": 5.785,
+        "text": "I've had it on three times."
+      },
+      {
+        "start": 5.785,
+        "end": 9.084,
+        "text": "That switch between the voices just gets me."
+      },
+      {
+        "start": 9.084,
+        "end": 12.022,
+        "text": "This is definitely coming on tonight."
+      }
+    ],
+    "emotions": [
+      "hug"
+    ],
+    "voice": "en-GB-RyanNeural"
+  },
+  "dont-let-me-drown": {
+    "author": "Noor",
+    "audio": "/versions/v1.0/demo-recommendations/dont-let-me-drown.m4a",
+    "cues": [
+      {
+        "start": 0,
+        "end": 2.139,
+        "text": "Some songs make me want to slow down."
+      },
+      {
+        "start": 2.139,
+        "end": 4.924,
+        "text": "This is one I would share with a friend after a long day."
+      },
+      {
+        "start": 4.924,
+        "end": 7.733,
+        "text": "Take a moment with it. The song is coming up now."
+      }
+    ],
+    "text": "Some songs make me want to slow down. This is one I would share with a friend after a long day. Take a moment with it. The song is coming up now.",
+    "emotions": [
+      "star",
+      "hug"
+    ],
+    "delivery": "voice"
+  },
+  "behind-the-light": {
+    "author": "Alex",
+    "delivery": "text",
+    "text": "A small pause in a busy day. I would put this on for the walk home and let the rest of the world carry on without me for a minute. What is your favourite song for switching off?",
+    "emotions": [
+      "party"
+    ],
+    "cues": []
+  },
+  "door": {
+    "author": "Maya",
+    "delivery": "voice",
+    "audio": "/versions/v1.0/demo-recommendations/door-neural-v3.mp3",
+    "text": "I sent this to someone and then immediately put my phone face down. Yeah... that sort of song. It's cheeky, but it's actually really sweet.",
+    "cues": [
+      {
+        "start": 0.1,
+        "end": 4.282,
+        "text": "I sent this to someone and then immediately put my phone face down."
+      },
+      {
+        "start": 4.232,
+        "end": 6.393,
+        "text": "Yeah... that sort of song."
+      },
+      {
+        "start": 6.393,
+        "end": 9.583,
+        "text": "It's cheeky, but it's actually really sweet."
+      }
+    ],
+    "emotions": [
+      "star",
+      "party"
+    ],
+    "voice": "en-GB-SoniaNeural"
+  },
+  "all-i-need-is-you": {
+    "author": "Noor",
+    "delivery": "voice",
+    "audio": "/versions/v1.0/demo-recommendations/all-i-need-is-you-neural-v3.mp3",
+    "text": "I had a bit of a rough day. Put this on, and just sat for a minute. I think that's what I needed, really. Something quiet.",
+    "cues": [
+      {
+        "start": 0.1,
+        "end": 2.781,
+        "text": "I had a bit of a rough day."
+      },
+      {
+        "start": 2.731,
+        "end": 6.413,
+        "text": "Put this on, and just sat for a minute."
+      },
+      {
+        "start": 6.413,
+        "end": 9.715,
+        "text": "I think that's what I needed, really."
+      },
+      {
+        "start": 9.715,
+        "end": 11.929,
+        "text": "Something quiet."
+      }
+    ],
+    "emotions": [
+      "hug"
+    ],
+    "voice": "en-GB-LibbyNeural"
+  },
+  "beautiful-onyinye": {
+    "author": "Alex",
+    "delivery": "voice",
+    "audio": "/versions/v1.0/demo-recommendations/beautiful-onyinye-neural-v3.mp3",
+    "text": "Ah, this one. I haven't heard it in ages. I still know exactly where the chorus comes in. Yeah... I'm letting this one play all the way through.",
+    "cues": [
+      {
+        "start": 0.1,
+        "end": 2.112,
+        "text": "Ah, this one."
+      },
+      {
+        "start": 2.062,
+        "end": 4.485,
+        "text": "I haven't heard it in ages."
+      },
+      {
+        "start": 4.485,
+        "end": 7.809,
+        "text": "I still know exactly where the chorus comes in."
+      },
+      {
+        "start": 7.809,
+        "end": 9.072,
+        "text": "Yeah..."
+      },
+      {
+        "start": 9.072,
+        "end": 12.268,
+        "text": "I'm letting this one play all the way through."
+      }
+    ],
+    "emotions": [
+      "star",
+      "hug"
+    ],
+    "voice": "en-GB-ThomasNeural"
+  }
+}
